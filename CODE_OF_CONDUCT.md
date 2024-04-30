@@ -120,7 +120,7 @@ The Chair and Vice-Chair will then review the incident and determine, to the bes
 * Whether this event constitutes a Code of Conduct violation.
 * Who, if anyone, was involved in the violation.
 * Whether this is an ongoing situation.
-* 
+
 This information will be collected in writing, and whenever possible the deliberations will be recorded and retained 
 (e.g. chat transcripts, email discussions, or recorded voice conversations).
 
