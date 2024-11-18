@@ -15,7 +15,7 @@ Ecma TC54-TG2 is chartered with the standardization of Package URL (PURL). The s
 
 Community interaction and review: Engage with the software development community to gather feedback, review new PURL type requests, and ensure the PURL specifications remain relevant and effective in addressing the needs of package management systems and software developers.
 
-Programme of work:
+## Programme of work
 
 
 1. To develop a standard for the PURL and VERS specifications.
